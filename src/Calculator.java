@@ -52,7 +52,10 @@ public class Calculator {
         System.out.println("Ejemplos:");
         System.out.println("  java Calculator add 2 3");
         System.out.println("  java Calculator div 10 2");
+        System.out.println("  java Calculator mul 3 5");
+        System.out.println("Códigos de salida:");
+        System.out.println("  0 OK");
+        System.out.println("  1 error");
+        System.out.println("  2 uso incorrecto");
     }
 }
-
-
